@@ -1,0 +1,12 @@
+[
+  {
+    "customer_id": 1,
+    "name": "John",
+    "city": "Kochi"
+  },
+  {
+    "customer_id": 2,
+    "name": "Sara",
+    "city": "Calicut"
+  }
+]
