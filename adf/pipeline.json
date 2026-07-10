@@ -1,0 +1,15 @@
+{
+  "name": "CustomerOrderPipeline",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopyCustomerData",
+        "type": "Copy"
+      },
+      {
+        "name": "MergeOrders",
+        "type": "DataFlow"
+      }
+    ]
+  }
+}
