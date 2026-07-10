@@ -1,0 +1,3 @@
+order_id,customer_id,amount,name,city
+101,1,1200,John,Kochi
+102,2,500,Sara,Calicut
